@@ -17,7 +17,25 @@ This portfolio is a showcase of my work and skills, where you can explore some o
 ## Skills
 
 - Web Development 
+- Application Programming Interface
 - Artificial Intelligence
 
 ## My Projects
+
+
+
+### Calendar App
+
+
+
+### API
+
+
+
+### Reinforcement Learning (Deep Q-Learning)
+
+
+
+### Hybrid Music Recommendation System
+
 
