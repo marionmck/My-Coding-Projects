@@ -24,18 +24,22 @@ This portfolio is a showcase of my work and skills, where you can explore some o
 
 
 
-### Calendar App
+### Calendar Application
 
-
+What does this app do? ...
+Repository:
 
 ### API
 
-
+What does this app do? ...
+Repository:
 
 ### Reinforcement Learning (Deep Q-Learning)
 
-
+What does this app do? ...
+Repository:
 
 ### Hybrid Music Recommendation System
 
-
+What does this app do? ...
+Repository:
