@@ -7,9 +7,9 @@ This portfolio is a showcase of my work and skills, where you can explore some o
 
 ## Languages 
 
-- HTML
-- CSS
+- HTML5, CSS3
 - Javascript, JQuery and Typescript
+- React
 - PHP
 - Python
 - Java
@@ -17,8 +17,13 @@ This portfolio is a showcase of my work and skills, where you can explore some o
 ## Skills
 
 - Web Development 
+    - HTML, CSS & JavaScript
+    - Responsive Design
+    - 
 - Application Programming Interface
-- Artificial Intelligence
+- Artificial Intelligence 
+    - Computer Vision
+    - Robotics AI
 
 ## My Projects
 
@@ -56,7 +61,7 @@ In this project, I utilised a hybrid methodology combining content-based and col
 
 The SVD model, based on matrix factorization, predicts a rating (represented as $r_u, i$) that a user ($u$) will assign to an item ($i$), where the item in this case refers to a song. This prediction is determined by calculating the dot product of two matrices: $q_i$ (representing item latent factors) and $p_u$ (representing user latent factors). The SVD model's objective function employs stochastic gradient descent, which iteratively reduces the prediction error.
 
-To optimize the model's performance, various parameters are available for customisation. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalisation capabilities of the model. To further refine the recommendation system's accuracy and quality of recommendations, swarm-intelligence algorithms were used to fine-tune the hyperparameters to ensure the best possible results for personalised music recommendations.
+To optimise the model's performance, various parameters are available for customisation. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalisation capabilities of the model. To further refine the recommendation system's accuracy and quality of recommendations, swarm-intelligence algorithms were used to fine-tune the hyperparameters to ensure the best possible results for personalised music recommendations.
 
 #### Technologies Used
 
