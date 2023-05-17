@@ -69,7 +69,7 @@ Repository:
 
 In this project, a hybrid methodology combining content-based and collaborative filtering techniques was utilized to develop a music recommendation system. To train the AI model, a combination of algorithms was employed, including the SVD (Singular Value Decomposition) model and the Surprise Libraries implementation inspired by Simon Funk, who achieved success in the Netflix Prize using his model (known as Funk-SVD).
 
-The SVD model, based on matrix factorization, predicts a rating (represented as $\hat{r}_{u, i}$) that a user (u) will assign to an item (i), where the item in this case refers to a song. This prediction is determined by calculating the dot product of two matrices:  (representing item latent factors) and  (representing user latent factors). The SVD model's objective function employs stochastic gradient descent, which iteratively reduces the prediction error.
+The SVD model, based on matrix factorization, predicts a rating (represented as $$\hat{r}_{u, i}$$) that a user (u) will assign to an item (i), where the item in this case refers to a song. This prediction is determined by calculating the dot product of two matrices: $q_{i}$ (representing item latent factors) and $p_{u}$ (representing user latent factors). The SVD model's objective function employs stochastic gradient descent, which iteratively reduces the prediction error.
 
 To optimize the model's performance, various parameters are available for customization. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalization capabilities of the model.
 
