@@ -49,7 +49,20 @@ This project focuses on developing a reinforcement learning model for playing th
 #### Installation Instructions
 
 1. Make sure you have Python installed on your computer.
-2. Download the PyGame library by running the following command:
+2. Download the PyGame library by running the following command: pip install pygame
+3. Download the Keras library by running the following command: pip install keras
+
+
+#### Usage Instructions
+
+1. Download the Jupyter Notebook file provided.
+2. Open the Jupyter Notebook using Jupyter Notebook or JupyterLab.
+3. Run the notebook to train and test the Deep Q-Learning model.
+4. Alternatively, you can use the provided notebook on Google Colab by opening it using Google Colab Notebooks.
+
+#### Screenshots or Demo
+
+[Provide screenshots or a link to a demo if available]
 
 Repository:
 
