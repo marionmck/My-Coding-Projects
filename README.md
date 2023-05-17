@@ -67,13 +67,11 @@ Repository:
 
 ### Hybrid Music Recommendation System
 
-In this project, a hybrid methodology combining content-based and collaborative filtering techniques was utilized to develop a music recommendation system. To train the AI model, a combination of algorithms was employed, including the SVD (Singular Value Decomposition) model and the Surprise Libraries implementation inspired by Simon Funk, who achieved success in the Netflix Prize using his model (known as Funk-SVD).
+In this project, a hybrid methodology combining content-based and collaborative filtering techniques was utilised to develop a music recommendation system. To train the model, the SVD (Singular Value Decomposition) model from the Surprise Python Library was used, inspired by Simon Funk who achieved success in the Netflix Prize using his model (known as Funk-SVD).
 
 The SVD model, based on matrix factorization, predicts a rating (represented as $r_u, i$) that a user ($u$) will assign to an item ($i$), where the item in this case refers to a song. This prediction is determined by calculating the dot product of two matrices: $q_i$ (representing item latent factors) and $p_u$ (representing user latent factors). The SVD model's objective function employs stochastic gradient descent, which iteratively reduces the prediction error.
 
-To optimize the model's performance, various parameters are available for customization. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalization capabilities of the model.
-
-To further refine the recommendation system's accuracy and quality of suggestions, swarm-intelligence methods were employed to fine-tune the model's hyperparameters, ensuring the best possible results for personalized music recommendations.
+To optimize the model's performance, various parameters are available for customisation. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalisation capabilities of the model. To further refine the recommendation system's accuracy and quality of recommendations, swarm-intelligence algorithms were used to fine-tune the hyperparameters to ensure the best possible results for personalised music recommendations.
 
 #### Technologies Used
 
@@ -85,10 +83,6 @@ To further refine the recommendation system's accuracy and quality of suggestion
 - Surprise Python Library
 
 #### Usage Instructions
-
-1. Download the Jupyter Notebook file provided.
-2. Open the Jupyter Notebook using Jupyter Notebook or JupyterLab.
-
 
 1. Download the ipynb file (CALLED WHAT?) from the repository below.
 2. Open the ipynb file using Jupyter Notebook, JupyterLab or on Google Colab Notebooks.
