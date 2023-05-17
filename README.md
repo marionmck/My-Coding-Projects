@@ -87,7 +87,7 @@ Repository:
 
 ### API
 
-I developed an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API.
+I developed an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
 
 #### Key Features
 
