@@ -5,21 +5,15 @@
 
 This portfolio is a showcase of my work and skills, where you can explore some of the projects I've developed.
 
-## Languages 
-
-- HTML5, CSS3
-- Javascript, JQuery and Typescript
-- React
-- PHP
-- Python
-- Java
-
-## Skills
+## Skills & Languages
 
 - Web Development 
-    - HTML, CSS & JavaScript
-    - Responsive Design
-    - 
+    - HTML & CSS
+    - JavaScript
+    - React
+    - PHP
+    - SQL
+- Object Oriented Programming
 - Application Programming Interface
 - Artificial Intelligence 
     - Computer Vision
@@ -125,6 +119,8 @@ The web-based calendar application is designed to help students plan and organis
 - PHP: Object-oriented programming in PHP, utilizing autoloading classes for efficient code organization.
 - MySQL for storing and retrieving data for the calendar.
 
-Screenshot or Demo...
+#### Screenshots or Demo
+
+[Provide screenshots or a link to a demo if available]
 
 Repository:
