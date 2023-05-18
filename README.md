@@ -116,8 +116,8 @@ The web-based calendar application is designed to help students plan and organis
 
 - HTML, CSS
 - JavaScript & Luxon JS library for date and time manipulation.
-- PHP: Object-oriented programming in PHP, utilizing autoloading classes for efficient code organization.
-- MySQL for storing and retrieving data for the calendar.
+- PHP: Object-oriented programming and utiliSing autoloading classes.
+- MySQL for storing and retrieving student event data.
 
 #### Screenshots or Demo
 
