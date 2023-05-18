@@ -54,7 +54,7 @@ This project focuses on developing a reinforcement learning model for playing th
 
 Repository:
 
-### AI| Hybrid Music Recommendation System
+### AI | Hybrid Music Recommendation System with PSO
 
 In this project, I utilised a hybrid methodology combining content-based and collaborative filtering techniques to develop a music recommendation system. To train the model, the SVD (Singular Value Decomposition) model from the Surprise Python Library was used, inspired by Simon Funk who achieved success in the Netflix Prize using his model (known as Funk-SVD).
 
@@ -85,7 +85,7 @@ Various parameters were available to optimise the model's performance. These par
 
 Repository:
 
-### API
+### Web Development | API
 
 I implemented an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
 
@@ -106,7 +106,7 @@ I implemented an API and documentation website for the CHI2018 conference. The A
 
 Repository:
 
-### Calendar Application
+### Web Development | Calendar Application
 
 The web-based calendar application is designed to help students plan and organise their learning and activities. It features a user log-in system, various calendar views and a responsive and intuitive interface. Users can create, schedule, modify, and delete events using my application.
 
