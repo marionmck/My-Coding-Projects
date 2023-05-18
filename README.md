@@ -27,7 +27,7 @@ This portfolio is a showcase of my work and skills, where you can explore some o
 
 ## My Projects
 
-### Reinforcement Learning (Deep Q-Learning)
+### AI | Reinforcement Learning (Deep Q-Learning) | Pong Game
 
 This project focuses on developing a reinforcement learning model for playing the game Pong. Inspired by the classic Atari game, the aim is to train an agent using the Deep Q-Learning (DQN) algorithm to play against either a computer-controlled or human opponent. The project explores the game mechanics, the challenges of reinforcement learning in reward sparse environments, and the concept of reward shaping. A custom Pong environment is created, allowing the incorporation of additional information and the implementation of reward shaping techniques. The DQN algorithm is implemented using Python and the Keras package from TensorFlow.
 
@@ -42,7 +42,6 @@ This project focuses on developing a reinforcement learning model for playing th
 2. Download the PyGame library by running the following command: pip install pygame
 3. Download the Keras library by running the following command: pip install keras
 
-
 #### Usage Instructions
 
 1. Download the ipynb file (CALLED WHAT?) from the repository below.
@@ -55,13 +54,13 @@ This project focuses on developing a reinforcement learning model for playing th
 
 Repository:
 
-### Hybrid Music Recommendation System
+### AI| Hybrid Music Recommendation System
 
 In this project, I utilised a hybrid methodology combining content-based and collaborative filtering techniques to develop a music recommendation system. To train the model, the SVD (Singular Value Decomposition) model from the Surprise Python Library was used, inspired by Simon Funk who achieved success in the Netflix Prize using his model (known as Funk-SVD).
 
 The SVD model, based on matrix factorization, predicts a rating (represented as $r_u, i$) that a user ($u$) will assign to an item ($i$), where the item in this case refers to a song. This prediction is determined by calculating the dot product of two matrices: $q_i$ (representing item latent factors) and $p_u$ (representing user latent factors). The SVD model's objective function employs stochastic gradient descent, which iteratively reduces the prediction error.
 
-To optimise the model's performance, various parameters are available for customisation. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalisation capabilities of the model. To further refine the recommendation system's accuracy and quality of recommendations, swarm-intelligence algorithms were used to fine-tune the hyperparameters to ensure the best possible results for personalised music recommendations.
+Various parameters were available to optimise the model's performance. These parameters control the number of epochs (iterations) performed during training, the number of latent factors to be discovered, and hyperparameters such as the learning rate and regularization term, which influence the accuracy and generalisation capabilities of the model. To further refine the recommendation system's accuracy and quality of recommendations, swarm-intelligence algorithms were used to fine-tune the hyperparameters to ensure the best possible results for personalised music recommendations.
 
 #### Technologies Used
 
@@ -71,6 +70,7 @@ To optimise the model's performance, various parameters are available for custom
 - Scikit Learn
 - SciPy
 - Surprise Python Library
+- PySwarms
 
 #### Usage Instructions
 
@@ -87,7 +87,7 @@ Repository:
 
 ### API
 
-I developed an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
+I implemented an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
 
 #### Key Features
 
@@ -108,9 +108,22 @@ Repository:
 
 ### Calendar Application
 
-Description or key features...
+The web-based calendar application is designed to help students plan and organise their learning and activities. It features a user log-in system, various calendar views and a responsive and intuitive interface. Users can create, schedule, modify, and delete events using my application.
 
-Technologies Used...
+#### Key Features
+
+1. User Log-In: Students can securely log in using their email and password.
+2. User Interface: The interface is clean, intuitive, and responsive for easy navigation.
+3. Calendar View: Provides daily, weekly, and monthly views to display important events.
+4. Event Creation: Users can create and schedule events such as exams, assignments, and extracurricular activities.
+5. Event Modification: Users can edit or delete events to accommodate changes or cancellations.
+
+#### Technologies Used
+
+- HTML, CSS
+- JavaScript & Luxon JS library for date and time manipulation.
+- PHP: Object-oriented programming in PHP, utilizing autoloading classes for efficient code organization.
+- MySQL for storing and retrieving data for the calendar.
 
 Screenshot or Demo...
 
