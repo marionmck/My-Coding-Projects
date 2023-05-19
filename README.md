@@ -84,7 +84,7 @@ Various parameters were available to optimise the model's performance. These par
 
 Repository: [CHI-Conference API](https://github.com/marionmck/api-chi-conference)
 
-I implemented an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
+I built an API along with a documentation page (see screenshot below) for the CHI2018 conference. The API can retrieve data about presenters, venues and events, with filtering capabilities for customised queries. I created a website that imports data from the API for users to easily find events, their location and who will be presenting, along with an admin section to modify any details. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
 
 #### Key Features
 
