@@ -17,7 +17,7 @@ Welcome! This portfolio is a showcase of my work and skills, where you can explo
 - Application Programming Interface
 - Artificial Intelligence 
     - Computer Vision
-    - Robotics AI
+    - Autonomous Systems
 
 ## <center>My Projects</center>
 
