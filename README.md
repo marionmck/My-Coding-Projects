@@ -48,7 +48,7 @@ This project focuses on developing a reinforcement learning model for playing th
 
 #### Demo
 
-![Computer player on the left and the AI player on the right.][demo]
+![][demo]
 [demo]: https://github.com/marionmck/deep-q-learning-pong/blob/main/Pong%20RL%20Video.mp4
 
 ---
