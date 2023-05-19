@@ -46,7 +46,10 @@ This project focuses on developing a reinforcement learning model for playing th
 
 #### Screenshots or Demo
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+
+![alt text][logo]
+
+[logo]: https://github.com/marionmck/deep-q-learning-pong/blob/main/Pong%20RL%20Video.gif
 
 Repository: [Pong DQN](https://github.com/marionmck/deep-q-learning-pong)
 
