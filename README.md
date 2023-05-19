@@ -44,12 +44,11 @@ This project focuses on developing a reinforcement learning model for playing th
 2. Open the ipynb file using Jupyter Notebook, JupyterLab or on Google Colab Notebooks.
 3. Run the notebook to train the Deep Q-Learning model, watch as the agent get's better!
 
-#### Screenshots or Demo
+#### Demo
 
+![alt text][demo]
 
-![alt text][logo]
-
-[logo]: https://github.com/marionmck/deep-q-learning-pong/blob/main/Pong%20RL%20Video.gif
+[demo]: https://github.com/marionmck/deep-q-learning-pong/blob/main/pong_demo.gif
 
 Repository: [Pong DQN](https://github.com/marionmck/deep-q-learning-pong)
 
