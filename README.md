@@ -48,7 +48,7 @@ This project focuses on developing a reinforcement learning model for playing th
 
 #### Demo
 
-The right player is controlled by the AI while the left player follows the balls Y position at a fixed velocity.
+The right player is controlled by the AI while the left player follows the balls Y position at a fixed velocity. The AI scores a point around one minute into the game!
 
 https://github.com/marionmck/My-Coding-Projects/assets/82905503/a8ebca34-4ac8-4ede-901a-976c4edbbf25
 
