@@ -19,7 +19,7 @@ This portfolio is a showcase of my work and skills, where you can explore some o
     - Computer Vision
     - Robotics AI
 
-## My Projects
+## <center>My Projects</center>
 
 ### AI | Reinforcement Learning (Deep Q-Learning) | Pong Game
 
@@ -47,6 +47,8 @@ This project focuses on developing a reinforcement learning model for playing th
 [Provide screenshots or a link to a demo if available]
 
 Repository:
+
+---
 
 ### AI | Hybrid Music Recommendation System with PSO
 
@@ -79,7 +81,9 @@ Various parameters were available to optimise the model's performance. These par
 
 Repository:
 
-### Web Development | API
+---
+
+### Web Development | API and Documentation Website
 
 I implemented an API and documentation website for the CHI2018 conference. The API enables users to retrieve data about venues and events, with filtering capabilities for customised queries. Furthermore, the documentation website provides clear instructions on how to interact with the API and is responsive for mobile devices.
 
@@ -99,6 +103,8 @@ I implemented an API and documentation website for the CHI2018 conference. The A
 [Provide screenshots or a link to a demo if available]
 
 Repository:
+
+---
 
 ### Web Development | Calendar Application
 
