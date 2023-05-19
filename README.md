@@ -1,5 +1,5 @@
 
-# My Coding Projects
+# My Coding Project's
 
 ## Description
 
@@ -21,7 +21,7 @@ Welcome! This portfolio is a showcase of my work and skills, where you can explo
     - Computer Vision
     - Autonomous Systems
 
-## <center>My Projects</center>
+## My Projects
 
 ### AI | Reinforcement Learning (Deep Q-Learning) | Pong Game
 
@@ -40,13 +40,13 @@ This project focuses on developing a reinforcement learning model for playing th
 
 #### Usage Instructions
 
-1. Download the ipynb file (CALLED WHAT?) from the repository below.
+1. Download the ipynb file "Pong DQL Train.ipynb" from the repository below.
 2. Open the ipynb file using Jupyter Notebook, JupyterLab or on Google Colab Notebooks.
-3. Run the notebook to train and test the Deep Q-Learning model.
+3. Run the notebook to train the Deep Q-Learning model, watch as the agent get's better!
 
 #### Screenshots or Demo
 
-[Provide screenshots or a link to a demo if available]
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 
 Repository: [Pong DQN](https://github.com/marionmck/deep-q-learning-pong)
 
