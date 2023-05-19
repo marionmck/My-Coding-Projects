@@ -13,9 +13,11 @@ Welcome! This portfolio is a showcase of my work and skills, where you can explo
     - React
     - PHP
     - SQL
-- Object Oriented Programming
 - Application Programming Interface
+- Object Oriented Programming
+    - Java  
 - Artificial Intelligence 
+    - Python 
     - Computer Vision
     - Autonomous Systems
 
