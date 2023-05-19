@@ -102,7 +102,7 @@ I implemented an API and documentation website for the CHI2018 conference. The A
 
 [Provide screenshots or a link to a demo if available]
 
-Repository:
+Repository: [CHI-Conference API](https://github.com/marionmck/api-chi-conference)
 
 ---
 
@@ -129,4 +129,4 @@ The web-based calendar application is designed to help students plan and organis
 
 [Provide screenshots or a link to a demo if available]
 
-Repository:
+Repository: [Calendar Application](https://github.com/marionmck/calendar-app)
