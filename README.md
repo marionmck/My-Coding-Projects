@@ -69,7 +69,7 @@ Various parameters were available to optimise the model's performance. These par
 - Pandas
 - Scikit Learn
 - SciPy
-- Surprise Python Library
+- Surprise Python Library 
 - PySwarms
 
 #### Usage Instructions
