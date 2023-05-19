@@ -3,7 +3,7 @@
 
 ## Description
 
-This portfolio is a showcase of my work and skills, where you can explore some of the projects I've developed.
+Welcome! This portfolio is a showcase of my work and skills, where you can explore some of the projects I've developed.
 
 ## Skills & Languages
 
