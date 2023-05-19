@@ -79,7 +79,7 @@ Various parameters were available to optimise the model's performance. These par
 
 [Provide screenshots or a link to a demo if available]
 
-Repository:
+Repository: [Hybrid Music Recommendation System](https://github.com/marionmck/hybrid-music-recommendation-system)
 
 ---
 
