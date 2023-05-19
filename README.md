@@ -48,8 +48,7 @@ This project focuses on developing a reinforcement learning model for playing th
 
 #### Demo
 
-![][demo]
-[demo]: https://github.com/marionmck/deep-q-learning-pong/blob/main/Pong%20RL%20Video.mp4
+https://github.com/marionmck/My-Coding-Projects/assets/82905503/a8ebca34-4ac8-4ede-901a-976c4edbbf25
 
 ---
 
