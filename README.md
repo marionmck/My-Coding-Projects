@@ -25,6 +25,8 @@ Welcome! This portfolio is a showcase of my work and skills, where you can explo
 
 ### AI | Reinforcement Learning (Deep Q-Learning) | Pong Game
 
+Repository: [Pong DQN](https://github.com/marionmck/deep-q-learning-pong)
+
 This project focuses on developing a reinforcement learning model for playing the game Pong. Inspired by the classic Atari game, the aim is to train an agent using the Deep Q-Learning (DQN) algorithm to play against either a computer-controlled or human opponent. The project explores the game mechanics, the challenges of reinforcement learning in reward sparse environments, and the concept of reward shaping. A custom Pong environment is created, allowing the incorporation of additional information and the implementation of reward shaping techniques. The DQN algorithm is implemented using Python and the Keras package from TensorFlow.
 
 #### Technologies Used
@@ -46,11 +48,8 @@ This project focuses on developing a reinforcement learning model for playing th
 
 #### Demo
 
-![alt text][demo]
-
-[demo]: https://github.com/marionmck/deep-q-learning-pong/blob/main/pong_demo.gif
-
-Repository: [Pong DQN](https://github.com/marionmck/deep-q-learning-pong)
+![Computer player on the left and the AI player on the right.][demo]
+[demo]: (https://github.com/marionmck/deep-q-learning-pong/blob/main/Pong%20RL%20Video.mp4)
 
 ---
 
