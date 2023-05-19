@@ -46,7 +46,7 @@ This project focuses on developing a reinforcement learning model for playing th
 
 [Provide screenshots or a link to a demo if available]
 
-Repository:
+Repository: [Pong DQN](https://github.com/marionmck/deep-q-learning-pong)
 
 ---
 
