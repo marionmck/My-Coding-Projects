@@ -15,7 +15,8 @@ Welcome! This portfolio is a showcase of my work and skills, where you can explo
     - SQL
 - Application Programming Interface
 - Object Oriented Programming
-    - Java  
+    - Java
+    - Python
 - Artificial Intelligence 
     - Python 
     - Computer Vision
